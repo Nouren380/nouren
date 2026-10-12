@@ -1,0 +1,50 @@
+Nouren Gamal
+Software Engineering Student | Cybersecurity Trainee
+nourengamall@gmail.com  |  +20 128 171 3179  |  Egypt  |  Linkedin
+PROFESSIONAL SUMMARY
+Fourth-year Information Technology student specializing in Software Engineering, currently developing cybersecurity skills through the DEPI Cybersecurity Program. Experienced in coordination, communication, organization, and teamwork through a role at E-Youth. Knowledgeable in networking fundamentals, Linux, and Wireshark, with a strong interest in Vulnerability Assessment and Penetration Testing.
+EDUCATION
+Bachelor of Information Technology (IT)   Borg El Arab Technological University (BATU)	 Sep 2024 – Expected 2027
+Specialization: Software Engineering                                                                                                          Grade: Excellent
+WORK EXPERIENCE
+Vulnerability Analyst & Penetration Tester Trainee  —  DEPI	Jul 2026 – Present
+• Trainee at the Digital Egypt Pioneers Initiative, developing hands-on skills in Vulnerability Assessment,Pentesting.
+• Applying networking, Linux, and core cybersecurity fundamentals in guided technical exercises.
+• Using industry tools including Nmap, Wireshark, Burp Suite, and Kali Linux for security assessments.
+• Practicing web application security testing against the OWASP Top 10 vulnerability categories.
+Coordinator (Part-Time)  —  E-Youth	May 2026 – Present
+• Coordinate daily program activities and operations to keep sessions running on schedule.
+• Communicate with participants and team members to ensure smooth execution of events.
+ICT Teacher  —  Independent / Private Tutoring	Sep 2024 – Present
+• Deliver one-on-one ICT lessons tailored to each student's individual pace and needs.
+• Prepare learning materials and practical exercises for every session.
+• Help students strengthen their understanding of core computer and IT concepts.
+Customer Service Representative (Full-Time)  —  Mango Market	Sep 2025 – Dec 2025
+• Handled customer inquiries and order-related issues for a high-volume retail operation.
+• Resolved customer complaints professionally, maintaining service quality standards.
+SKILLS
+Technical: C, C++, Java, Python  •  HTML, CSS, JavaScript  •  Flutter  •  Networking Fundamentals  •  Linux (Ubuntu/Kali)  •  Git, GitHub  •  Wireshark, Nmap, Burp Suite  •  Canva, Figma  •  Microsoft Office (Word, Excel, PowerPoint)
+Soft Skills: Problem Solving  •  Teamwork  •  Communication  •  Time Management  •  Organization  •  Leadership  •  Adaptability  •  Attention to Detail  •  Quick Learner  •  Self-Motivated
+TECHNICAL PROJECTS
+Automated Plastic Injection Machine  —  Arduino & Embedded Systems	
+• Built a prototype plastic injection machine using Arduino to control the full operation cycle.
+• Integrated motors, sensors, heating elements, and an SSR to automate the injection process.
+• Programmed control logic and coordinated hardware components to achieve a reliable automated cycle.
+Electronics E-Commerce Website  —  Full-Stack Web Development (Team Project)	
+• Developed an e-commerce website for electronic products as part of a 4-person team.
+• Built the front-end using HTML, CSS, and JavaScript with a focus on user-friendly product browsing.
+• Integrated a database to manage product listings and site data.
+CERTIFICATIONS
+Network Security  —  Huawei ICT Academy – Huawei Egypt	 Sep 2026 – Sep 2026
+VOLUNTEER EXPERIENCE
+Programming & IT Supervisor  —  Child University	Jul 2025 – Sep 2025
+• Supervised children during programming and IT learning activities.
+• Assisted students with technical activities, helping create an engaging learning environment.
+OS Member  —  IT Club, Borg El Arab Technological University	Oct 2024 – Oct 2025
+• Assisted in organizing and coordinating technical events and activities.
+• Supported event logistics, helping ensure smooth execution of activities.
+Vice Head of HR  —  ICPC, Borg El Arab Technological University	Apr 2026 – May 2026
+• Supported HR activities and coordinated with team members and volunteers.
+• Assisted in organizing and managing team activities and events.
+LANGUAGES
+Arabic — Native      |      English — Intermediate (B1)
